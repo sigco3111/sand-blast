@@ -1,0 +1,6 @@
+{
+  "name": "Sand Blast Game",
+  "description": "A game combining Tetris-like block falling mechanics with sand physics. Clear lines by connecting same-colored sand particles from the left wall to the right wall.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
