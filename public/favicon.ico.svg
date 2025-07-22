@@ -1,1 +1,23 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 모래시계 윤곽선 -->
+  <path d="M4 1.5C4 1.22386 4.22386 1 4.5 1H11.5C11.7761 1 12 1.22386 12 1.5V3.5C12 3.5 12 5 8 5C4 5 4 3.5 4 3.5V1.5Z" fill="#FFC107"/>
+  <path d="M4 14.5C4 14.7761 4.22386 15 4.5 15H11.5C11.7761 15 12 14.7761 12 14.5V12.5C12 12.5 12 11 8 11C4 11 4 12.5 4 12.5V14.5Z" fill="#FFC107"/>
+  
+  <!-- 중앙 연결부 -->
+  <path d="M8 5C12 5 12 8 8 8C4 8 4 5 8 5Z" fill="#FFD54F"/>
+  <path d="M8 11C12 11 12 8 8 8C4 8 4 11 8 11Z" fill="#FFD54F"/>
+  
+  <!-- 모래 입자들 -->
+  <circle cx="7" cy="9" r="0.5" fill="#FFE082"/>
+  <circle cx="9" cy="9.5" r="0.5" fill="#FFE082"/>
+  <circle cx="8" cy="10" r="0.5" fill="#FFE082"/>
+  <circle cx="6.5" cy="10.5" r="0.5" fill="#FFE082"/>
+  <circle cx="9.5" cy="10.5" r="0.5" fill="#FFE082"/>
+  
+  <!-- 상단 모래 입자들 -->
+  <circle cx="7" cy="3" r="0.5" fill="#FFE082"/>
+  <circle cx="8.5" cy="2.5" r="0.5" fill="#FFE082"/>
+  <circle cx="9.5" cy="3.5" r="0.5" fill="#FFE082"/>
+  <circle cx="7.5" cy="4" r="0.5" fill="#FFE082"/>
+</svg> 
