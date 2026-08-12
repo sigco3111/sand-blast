@@ -3,7 +3,7 @@
 
 **Sand Blast Game**은 클래식 블록 퍼즐 게임에 독특한 물리 엔진을 결합한 웹 기반 게임입니다. 아래로 떨어지는 블록이 모래 입자로 부서지며, 플레이어는 같은 색상의 입자를 가로로 연결하여 라인을 클리어해야 합니다.
 
-실행주소1 : https://sand-blast.vercel.app/
+실행주소1 : https://sigco3111.github.io/sand-blast/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
